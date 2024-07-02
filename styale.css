@@ -1,0 +1,59 @@
+body {
+	background-image: url("Jewellery3/bg.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box1{
+    margin-top: 815px;
+    margin-left: 522px;
+    width: 368px;
+    height: 181px;
+}
+.box2 {
+	margin-top: -185px;
+    margin-left: 66px;
+    width: 368px;
+    height: 181px;
+    margin-bottom: 311px
+}
+.box3 {
+	    width: 283px;
+    height: 234px;
+    margin-left: 111px;
+    margin-bottom: 56px;
+}
+.box6{
+    width: 283px;
+    height: 234px;
+    margin-left: 91px;
+    margin-top: -292px;
+    margin-bottom: 73px;
+}
+.box4 {
+	 width: 283px;
+    height: 244px;
+    margin-left: 168px;
+    margin-top: -308px;
+    margin-bottom: -155px;
+}
+.box5 {
+	     width: 283px;
+    height: 244px;
+    margin-left: 96px;
+    margin-top: -292px;
+    margin-bottom: -145px;
+}
+.box7 {
+        width: 444px;
+    height: 377px;
+    margin-left: 84px;
+    margin-top: -300px;
+    margin-bottom: -438px;
+}
+.box8 {
+      width: 440px;
+    height: 373px;
+    margin-left: 17px;
+    margin-top: -292px;
+    margin-bottom: -424px;
+}
