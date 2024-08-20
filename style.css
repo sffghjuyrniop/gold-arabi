@@ -1,0 +1,41 @@
+ body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+.img-location{
+    max-width: 4rem;
+    max-height: 4rem;
+    margin-top: 30rem;
+    margin-left: 3.8rem;
+}
+.img-instagram{
+    max-width: 4rem;
+    max-height: 4rem;
+    margin-top: 27rem;
+    margin-left: 1.5rem;
+}
+.img-telegram{
+    max-width: 4rem;
+    max-height: 4rem;
+    margin-top: 27rem;
+    margin-left: 1.5rem;
+}
+.img-Whatsapp{
+    max-width: 4rem;
+    max-height: 4rem;
+    margin-top: 1.2rem;
+    margin-left: 6.7rem;
+}
+.img-Phone{
+    max-width: 4rem;
+    max-height: 4rem;
+    margin-top:1.2rem;
+    margin-left: 2.1rem;
+}
+.footer{
+    max-width: 13rem;
+    max-height: 13rem;
+    margin-bottom: -6.6rem;
+    margin-left: 5rem;
+}
